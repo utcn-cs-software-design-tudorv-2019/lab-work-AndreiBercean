@@ -1,0 +1,20 @@
+Diferente:
+
+Notiunea de layers se refera la gruparea componentelor unei aplicatii si a functionalitatilor.
+Layer = separarea logica a codului.
+Exemple de layere = presentation layer, business layer, data layer.
+
+Pe de alta parte, notiunea de tier se refera la separarea fizica a codului.
+Un tier arata unde se executa codul.
+
+Asemanari:
+
+Ambele reprezinta o modalitate de organizare a codului.
+
+---------------------------------------------------------
+
+auth = authentication/authorization
+
+authorization = in business layer --- are rolul de a proteja date/informatii.
+
+authentication = se poate pune in presentation sau business layer
